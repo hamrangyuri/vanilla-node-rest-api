@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ae146425-4606-4b78-88f4-336815b233ef",
+    "name": "Nike Air Max 90",
+    "description": "The Nike Air Max 90 brings a new twist to the original Waffle outsole while keeping the stitched overlays and classic TPU accents. This updated design has red, white and denim on the upper and a classic red Swoosh logo, while the Max Air unit in the heel brings you the soft cushioning you've come to love.",
+    "price": 130
+  },
+  {
+    "id": "399a810f-6685-4c7f-bb4a-a9e42733c467",
+    "name": "iPhone 13 Pro 128GB",
+    "description": "The iPhone 13 Pro sets itself apart with a stainless steel band, three-camera system, and its new 120Hz ProMotion display. The better technology coupled with premium materials makes this high-priced device great for the iPhone power user.",
+    "price": 999
+  }
+]
